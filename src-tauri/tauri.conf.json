@@ -1,0 +1,23 @@
+{
+  "build": {
+    "distDir": "../src-tauri/html",
+    "devPath": "../src-tauri/html"
+  },
+  "tauri": {
+    "bundle": {
+      "active": true,
+      "identifier": "de.ghost143.ghostrechner",
+      "icon": [
+        "icons/icon.ico"
+      ]
+    },
+    "windows": [
+      {
+        "title": "GhostRechner PC Edition",
+        "width": 800,
+        "height": 600,
+        "resizable": true
+      }
+    ]
+  }
+}
