@@ -1,7 +1,7 @@
 [package]
 name = "lightcord"
 version = "1.0.0"
-description = "Calc"
+description = "LightCord"
 authors = ["you"]
 license = ""
 repository = ""
