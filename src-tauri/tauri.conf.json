@@ -6,14 +6,14 @@
   "tauri": {
     "bundle": {
       "active": true,
-      "identifier": "de.ghost143.ghostrechner",
+      "identifier": "de.ghost143.lightcord",
       "icon": [
-        "icons/icon.ico"
+        "icons/lightcord.ico"
       ]
     },
     "windows": [
       {
-        "title": "GhostRechner PC Edition",
+        "title": "LightCord",
         "width": 800,
         "height": 600,
         "resizable": true

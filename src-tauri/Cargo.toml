@@ -1,11 +1,11 @@
 [package]
-name = "ghostrechner-pc-edition"
-version = "0.1.0"
+name = "lightcord"
+version = "1.0.0"
 description = "Calc"
 authors = ["you"]
 license = ""
 repository = ""
-default-run = "ghostrechner-pc-edition"
+default-run = "lightcord"
 edition = "2021"
 rust-version = "1.60"
 
