@@ -1,11 +1,11 @@
 [package]
-name = "LightCord Beta v1.0.0"
-version = "1.0.0"
-description = "LightCord"
+name = "LightCord"
+version = "1.0.1"
+description = "LightCord Beta v1.0.0"
 authors = ["you"]
 license = ""
 repository = ""
-default-run = "LightCord Beta v1.0.0"
+default-run = "LightCord"
 edition = "2021"
 rust-version = "1.60"
 
